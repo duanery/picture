@@ -6,4 +6,4 @@ github icon from 24 to 128 pixel
 ![72](https://github.com/duanery/picture/blob/master/github/github_black_72px.png)
 ![96](https://github.com/duanery/picture/blob/master/github/github_black_96px.png)
 ![128](https://github.com/duanery/picture/blob/master/github/github_black_128px.png)
-[![48](https://github.com/duanery/picture/blob/master/github/github_black_48px.png)](www.baidu.com)
+[![48](https://github.com/duanery/picture/blob/master/github/github_black_48px.png)](http://www.baidu.com)
